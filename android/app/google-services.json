@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856724255618",
+    "firebase_url": "https://travel-my-app-final.firebaseio.com",
+    "project_id": "travel-my-app-final",
+    "storage_bucket": "travel-my-app-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856724255618:android:6f1d25540b6b38db12159b",
+        "android_client_info": {
+          "package_name": "kz.iitu.travel_hour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856724255618-qqtctrmmi2vs98mbuogo7dptmiltcc4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonE9GtqksDYNcJcTrRDfj7-QchrJm5Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856724255618-qqtctrmmi2vs98mbuogo7dptmiltcc4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
